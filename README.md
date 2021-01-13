@@ -1,1 +1,1 @@
-https://haykmell.github.io/design/
+https://haykmell.github.io/next/
